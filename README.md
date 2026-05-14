@@ -31,7 +31,7 @@ PHP modular, SMTP sin librerías, CSRF, rate limiting, Schema JSON-LD y SEO téc
 
 ---
 
-### [Vivid](https://github.com/aruizgon000000-cell/vivid) — Ecommerce de moda
+### [Vivid](https://github.com/aruizgon000000-cell/) — Ecommerce de moda (Rediseñando)
 Tienda online completa desarrollada 100% en Vanilla sin dependencias npm.
 Panel de administración, gestión de stock, Stripe + PayPal, programa de puntos y páginas legales GDPR.
 
