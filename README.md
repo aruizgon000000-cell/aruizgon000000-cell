@@ -1,4 +1,4 @@
-# Hola, soy Alex Ruiz 👋
+# Hola, soy Alex 👋
 
 **Diseñador web freelance** especializado en webs profesionales, rápidas y optimizadas para negocios y autónomos en **Barcelona y toda España**.
 
