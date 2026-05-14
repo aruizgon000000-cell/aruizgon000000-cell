@@ -49,12 +49,6 @@ Panel de administración, gestión de stock, Stripe + PayPal, programa de puntos
 
 ---
 
-## 📊 GitHub Stats
-
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aruizgon000000-cell&show_icons=true&theme=dark&hide_border=true&bg_color=07070b&title_color=4d82ff&icon_color=4d82ff&text_color=e2e2ef)
-
----
-
 ## 📬 ¿Hablamos?
 
 Si necesitas una web profesional para tu negocio, escríbeme:
